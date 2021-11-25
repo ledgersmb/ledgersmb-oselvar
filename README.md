@@ -46,4 +46,4 @@ Update this link if you publish your own metrics:
 
 -->
 
-[oselvar.com]: https://oselvar.com/github/oselvar/oselvar-github-metrics/main
+[oselvar.com]: https://www.oselvar.com/github/ledgersmb/ledgersmb-oselvar/main
